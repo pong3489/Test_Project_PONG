@@ -1,0 +1,1 @@
+D:\Drone\AR.Drone\AR.Drone.Client\obj\x86\Debug\AR.Drone.Client.csprojResolveAssemblyReference.cache

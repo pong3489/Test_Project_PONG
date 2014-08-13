@@ -1,0 +1,15 @@
+C:\Users\pong3_000\Desktop\Control\AR.Drone\AR.Drone.Data\bin\Debug\AR.Drone.Data.dll
+C:\Users\pong3_000\Desktop\Control\AR.Drone\AR.Drone.Data\bin\Debug\AR.Drone.Data.pdb
+C:\Users\pong3_000\Desktop\Control\AR.Drone\AR.Drone.Data\obj\Debug\AR.Drone.Data.csprojResolveAssemblyReference.cache
+C:\Users\pong3_000\Desktop\Control\AR.Drone\AR.Drone.Data\obj\Debug\AR.Drone.Data.dll
+C:\Users\pong3_000\Desktop\Control\AR.Drone\AR.Drone.Data\obj\Debug\AR.Drone.Data.pdb
+D:\Drone\AR.Drone\AR.Drone.Data\bin\Debug\AR.Drone.Data.dll
+D:\Drone\AR.Drone\AR.Drone.Data\bin\Debug\AR.Drone.Data.pdb
+D:\Drone\AR.Drone\AR.Drone.Data\obj\Debug\AR.Drone.Data.dll
+D:\Drone\AR.Drone\AR.Drone.Data\obj\Debug\AR.Drone.Data.pdb
+D:\Drone\AR.Drone\AR.Drone.Data\obj\Debug\AR.Drone.Data.csprojResolveAssemblyReference.cache
+D:\Drone\3333333333\AR.Drone\AR.Drone.Data\bin\Debug\AR.Drone.Data.dll
+D:\Drone\3333333333\AR.Drone\AR.Drone.Data\bin\Debug\AR.Drone.Data.pdb
+D:\Drone\3333333333\AR.Drone\AR.Drone.Data\obj\Debug\AR.Drone.Data.csprojResolveAssemblyReference.cache
+D:\Drone\3333333333\AR.Drone\AR.Drone.Data\obj\Debug\AR.Drone.Data.dll
+D:\Drone\3333333333\AR.Drone\AR.Drone.Data\obj\Debug\AR.Drone.Data.pdb

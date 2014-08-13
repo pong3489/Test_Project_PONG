@@ -1,0 +1,5 @@
+D:\Drone\AR.Drone\AR.Drone.Infrastructure\bin\x86\Debug\AR.Drone.Infrastructure.dll
+D:\Drone\AR.Drone\AR.Drone.Infrastructure\bin\x86\Debug\AR.Drone.Infrastructure.pdb
+D:\Drone\AR.Drone\AR.Drone.Infrastructure\obj\x86\Debug\AR.Drone.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Drone\AR.Drone\AR.Drone.Infrastructure\obj\x86\Debug\AR.Drone.Infrastructure.dll
+D:\Drone\AR.Drone\AR.Drone.Infrastructure\obj\x86\Debug\AR.Drone.Infrastructure.pdb

@@ -1,0 +1,15 @@
+C:\Users\JaBO\Desktop\ARDrone-Control-.NET-master\ARDrone-Control-.NET-master\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\JaBO\Desktop\ARDrone-Control-.NET-master\ARDrone-Control-.NET-master\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\JaBO\Desktop\ARDrone-Control-.NET-master\ARDrone-Control-.NET-master\ARDroneControlLibrary\obj\Debug\ARDroneControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\JaBO\Desktop\ARDrone-Control-.NET-master\ARDrone-Control-.NET-master\ARDroneControlLibrary\obj\Debug\ARDrone.Control.dll
+C:\Users\JaBO\Desktop\ARDrone-Control-.NET-master\ARDrone-Control-.NET-master\ARDroneControlLibrary\obj\Debug\ARDrone.Control.pdb
+C:\Users\JaBO\Desktop\ใช้\ARDrone-Control-.NET-master\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\JaBO\Desktop\ใช้\ARDrone-Control-.NET-master\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\JaBO\Desktop\ใช้\ARDrone-Control-.NET-master\ARDroneControlLibrary\obj\Debug\ARDroneControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\JaBO\Desktop\ใช้\ARDrone-Control-.NET-master\ARDroneControlLibrary\obj\Debug\ARDrone.Control.dll
+C:\Users\JaBO\Desktop\ใช้\ARDrone-Control-.NET-master\ARDroneControlLibrary\obj\Debug\ARDrone.Control.pdb
+C:\Users\pong3_000\Desktop\PBBO\Control\ARDrone-Control-.NET-master\bin\Debug\ARDroneControlLibrary\ARDrone.Control.dll
+C:\Users\pong3_000\Desktop\PBBO\Control\ARDrone-Control-.NET-master\bin\Debug\ARDroneControlLibrary\ARDrone.Control.pdb
+C:\Users\pong3_000\Desktop\PBBO\Control\ARDrone-Control-.NET-master\ARDroneControlLibrary\obj\Debug\ARDroneControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\pong3_000\Desktop\PBBO\Control\ARDrone-Control-.NET-master\ARDroneControlLibrary\obj\Debug\ARDrone.Control.dll
+C:\Users\pong3_000\Desktop\PBBO\Control\ARDrone-Control-.NET-master\ARDroneControlLibrary\obj\Debug\ARDrone.Control.pdb

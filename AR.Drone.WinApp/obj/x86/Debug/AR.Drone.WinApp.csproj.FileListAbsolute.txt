@@ -1,0 +1,4 @@
+D:\Drone\AR.Drone\AR.Drone.WinApp\obj\x86\Debug\AR.Drone.WinApp.csprojResolveAssemblyReference.cache
+D:\Drone\AR.Drone\AR.Drone.WinApp\obj\x86\Debug\AR.Drone.WinApp.MainForm.resources
+D:\Drone\AR.Drone\AR.Drone.WinApp\obj\x86\Debug\AR.Drone.WinApp.PlayerForm.resources
+D:\Drone\AR.Drone\AR.Drone.WinApp\obj\x86\Debug\AR.Drone.WinApp.csproj.GenerateResource.Cache
